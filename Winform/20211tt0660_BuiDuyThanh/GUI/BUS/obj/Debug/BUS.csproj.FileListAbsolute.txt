@@ -1,0 +1,22 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\bin\Debug\BUS.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\bin\Debug\BUS.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\bin\Debug\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\bin\Debug\ET.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\bin\Debug\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\bin\Debug\ET.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\obj\Debug\BUS.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\BUS\obj\Debug\BUS.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\bin\Debug\BUS.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\bin\Debug\BUS.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\bin\Debug\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\bin\Debug\ET.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\bin\Debug\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\bin\Debug\ET.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\obj\Debug\BUS.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\20211tt0660_BuiDuyThanh\GUI\BUS\obj\Debug\BUS.pdb

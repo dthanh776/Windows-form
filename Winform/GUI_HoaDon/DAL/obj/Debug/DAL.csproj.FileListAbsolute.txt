@@ -1,0 +1,9 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\bin\Debug\DAL.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\bin\Debug\DAL.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\obj\Debug\DAL.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\obj\Debug\DAL.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\bin\Debug\DTO_HocPhan.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\bin\Debug\DTO_HocPhan.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DAL\obj\Debug\DAL.csproj.CopyComplete

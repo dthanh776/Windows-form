@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_qltv", "GUI_qltv\GUI_qltv.csproj", "{1E248E54-656F-4F96-8A96-90E4BFE95026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{42A5CA1F-FAA3-4FD3-9291-F85D3C46152F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E248E54-656F-4F96-8A96-90E4BFE95026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E248E54-656F-4F96-8A96-90E4BFE95026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E248E54-656F-4F96-8A96-90E4BFE95026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E248E54-656F-4F96-8A96-90E4BFE95026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A5CA1F-FAA3-4FD3-9291-F85D3C46152F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A5CA1F-FAA3-4FD3-9291-F85D3C46152F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A5CA1F-FAA3-4FD3-9291-F85D3C46152F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A5CA1F-FAA3-4FD3-9291-F85D3C46152F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3D49EB-5A91-45B3-B117-78BD3DA725CA}
+	EndGlobalSection
+EndGlobal

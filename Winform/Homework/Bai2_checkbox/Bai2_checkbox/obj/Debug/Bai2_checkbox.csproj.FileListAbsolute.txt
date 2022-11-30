@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\bin\Debug\Bai2_checkbox.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\bin\Debug\Bai2_checkbox.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\bin\Debug\Bai2_checkbox.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.frmFont.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai2_checkbox\Bai2_checkbox\obj\Debug\Bai2_checkbox.pdb

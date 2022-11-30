@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\bin\Debug\Bai13.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\bin\Debug\Bai13.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\bin\Debug\Bai13.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.frmMain.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai13\Bai13\obj\Debug\Bai13.pdb

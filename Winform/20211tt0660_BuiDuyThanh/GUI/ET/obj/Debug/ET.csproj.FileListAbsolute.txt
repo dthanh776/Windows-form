@@ -1,0 +1,6 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\ET\bin\Debug\ET.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\ET\bin\Debug\ET.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\ET\obj\Debug\ET.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\New folder\GUI\ET\obj\Debug\ET.pdb

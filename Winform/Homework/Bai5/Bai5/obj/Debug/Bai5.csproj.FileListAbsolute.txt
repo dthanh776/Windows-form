@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\bin\Debug\Bai5.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\bin\Debug\Bai5.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\bin\Debug\Bai5.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5\Bai5\obj\Debug\Bai5.frmStudentList.resources

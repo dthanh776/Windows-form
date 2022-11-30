@@ -1,0 +1,22 @@
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\bin\Debug\BUS_QLSP.dll
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\bin\Debug\BUS_QLSP.pdb
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\bin\Debug\DAL_QLSP.dll
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\bin\Debug\ET_QLSP.dll
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\bin\Debug\DAL_QLSP.pdb
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\bin\Debug\ET_QLSP.pdb
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.csproj.AssemblyReference.cache
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.csproj.CoreCompileInputs.cache
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.csproj.CopyComplete
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.dll
+E:\data\Trí\Ứng Dụng\BT\BT Chuuong5\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\bin\Debug\BUS_QLSP.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\bin\Debug\BUS_QLSP.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\bin\Debug\DAL_QLSP.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\bin\Debug\ET_QLSP.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\bin\Debug\DAL_QLSP.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\bin\Debug\ET_QLSP.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.csproj.CopyComplete
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_QLSP\BUS_QLSP\obj\Debug\BUS_QLSP.pdb

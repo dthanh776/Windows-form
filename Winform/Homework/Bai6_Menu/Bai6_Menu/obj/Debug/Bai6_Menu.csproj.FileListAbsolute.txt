@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\bin\Debug\Bai6_Menu.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\bin\Debug\Bai6_Menu.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\bin\Debug\Bai6_Menu.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.Form1.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6_Menu\Bai6_Menu\obj\Debug\Bai6_Menu.pdb

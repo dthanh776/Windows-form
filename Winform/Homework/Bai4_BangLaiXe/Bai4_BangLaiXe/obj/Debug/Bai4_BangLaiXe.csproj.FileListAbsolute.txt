@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\bin\Debug\Bai4_BangLaiXe.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\bin\Debug\Bai4_BangLaiXe.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\bin\Debug\Bai4_BangLaiXe.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.frmLaiXe.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai4_BangLaiXe\Bai4_BangLaiXe\obj\Debug\Bai4_BangLaiXe.pdb

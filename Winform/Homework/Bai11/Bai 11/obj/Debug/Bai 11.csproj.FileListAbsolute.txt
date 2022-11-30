@@ -1,0 +1,20 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\bin\Debug\Bai 11.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\bin\Debug\Bai 11.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\bin\Debug\Bai 11.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai 11.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai_11.Form1.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai_11.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai 11.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai 11.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai 11.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai 11\Bai 11\obj\Debug\Bai 11.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\bin\Debug\Bai 11.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\bin\Debug\Bai 11.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\bin\Debug\Bai 11.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai 11.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai_11.Form1.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai_11.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai 11.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai 11.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai 11.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Homework\Bai11\Bai 11\obj\Debug\Bai 11.pdb

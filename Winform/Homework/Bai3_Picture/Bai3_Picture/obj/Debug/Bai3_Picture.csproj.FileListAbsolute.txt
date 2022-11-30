@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\bin\Debug\Bai3_Picture.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\bin\Debug\Bai3_Picture.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\bin\Debug\Bai3_Picture.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.frmMain.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai3_Picture\Bai3_Picture\obj\Debug\Bai3_Picture.pdb

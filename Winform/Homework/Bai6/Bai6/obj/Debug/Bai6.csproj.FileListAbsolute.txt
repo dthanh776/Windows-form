@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\bin\Debug\Bai6.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\bin\Debug\Bai6.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\bin\Debug\Bai6.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.frmCourseReg.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai6\Bai6\obj\Debug\Bai6.pdb

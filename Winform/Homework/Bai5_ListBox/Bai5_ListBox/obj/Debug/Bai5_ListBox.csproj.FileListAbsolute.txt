@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\bin\Debug\Bai5_ListBox.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\bin\Debug\Bai5_ListBox.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\bin\Debug\Bai5_ListBox.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.frmTenSinhVien.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai5_ListBox\Bai5_ListBox\obj\Debug\Bai5_ListBox.pdb

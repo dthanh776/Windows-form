@@ -1,0 +1,10 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\bin\Debug\Bai7_Listview.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\bin\Debug\Bai7_Listview.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\bin\Debug\Bai7_Listview.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.Form1.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.Properties.Resources.resources
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.csproj.GenerateResource.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.exe
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\Bai7_Listview\Bai7_Listview\obj\Debug\Bai7_Listview.pdb

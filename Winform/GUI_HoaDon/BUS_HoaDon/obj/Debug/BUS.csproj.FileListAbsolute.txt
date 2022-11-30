@@ -1,0 +1,11 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\bin\Debug\BUS_HoaDon.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\bin\Debug\BUS_HoaDon.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\bin\Debug\DAL.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\bin\Debug\DAL.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\obj\Debug\BUS_HoaDon.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\obj\Debug\BUS_HoaDon.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\bin\Debug\DTO_HocPhan.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\BUS_HoaDon\bin\Debug\DTO_HocPhan.pdb

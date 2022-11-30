@@ -1,0 +1,12 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI\DTO\bin\Debug\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI\DTO\bin\Debug\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI\DTO\obj\Debug\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI\DTO\obj\Debug\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\BuiDuyThanh_20211TT0660_De1\DTO\bin\Debug\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\BuiDuyThanh_20211TT0660_De1\DTO\bin\Debug\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\BuiDuyThanh_20211TT0660_De1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\BuiDuyThanh_20211TT0660_De1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\BuiDuyThanh_20211TT0660_De1\DTO\obj\Debug\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\BuiDuyThanh_20211TT0660_De1\DTO\obj\Debug\DTO.pdb

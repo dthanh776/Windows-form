@@ -1,0 +1,6 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DTO_HocPhan\bin\Debug\DTO_HocPhan.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DTO_HocPhan\bin\Debug\DTO_HocPhan.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DTO_HocPhan\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DTO_HocPhan\obj\Debug\DTO_HocPhan.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DTO_HocPhan\obj\Debug\DTO_HocPhan.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\GUI_HoaDon\DTO_HocPhan\obj\Debug\DTO.csproj.AssemblyReference.cache
